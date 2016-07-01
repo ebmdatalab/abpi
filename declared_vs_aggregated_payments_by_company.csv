@@ -1,177 +1,94 @@
-,Company Name,TOV Category,No of HCP HCO in Aggregate,Amount Aggregate,Amount Declared,Total Amount,Proportion Undeclared
-167,Thea Pharmaceuticals Ltd,Fee for service and consultancy,53.0,51237.2,750.0,51987.2,0.985573371907
-104,Meda Pharma,Contribution to costs of Events,54.0,31651.54,713.76,32365.3,0.977946751614
-23,ApoPharma Inc,Fee for service and consultancy,6.0,51764.03,2000.0,53764.03,0.962800407633
-109,Merck Sharp & Dohme Ltd,Fee for service and consultancy,1742.0,2363071.0,92380.57,2455451.57,0.962377360186
-102,Martindale Pharma,Contribution to costs of Events,7.0,874.15,37.0,911.15,0.959391977172
-127,Octapharma Ltd,Fee for service and consultancy,12.0,27327.92,1219.1,28547.02,0.957295017133
-74,Eisai Ltd,Fee for service and consultancy,170.0,181900.41,10122.76,192023.17,0.947283653322
-173,Vifor Fresenius Medical Care Renal Pharma,Fee for service and consultancy,8.0,16460.33,1085.6,17545.93,0.938128101503
-146,Sandoz Ltd,Fee for service and consultancy,97.0,71469.48,6010.41,77479.89,0.922426193429
-145,Sandoz Ltd,Donations and Grants to HCOs,8.0,218861.83,21000.67,239862.5,0.912447047788
-67,Chugai Pharma UK,Fee for service and consultancy,110.0,410742.8,40627.12,451369.92,0.909991520924
-60,CSL Behring,Contribution to costs of Events,74.0,65394.07,8307.14,73701.21,0.887286246725
-160,Sunovion Pharmaceuticals Europe Ltd,Contribution to costs of Events,141.0,28282.55,4185.73,32468.28,0.871082484197
-159,Stirling Anglian Pharmaceuticals Ltd,Fee for service and consultancy,116.0,251173.59,42607.88,293781.47,0.854967435489
-161,Sunovion Pharmaceuticals Europe Ltd,Fee for service and consultancy,200.0,149188.86,26121.69,175310.55,0.850997615375
-50,Boehringer Ingelheim Ltd,Fee for service and consultancy,459.0,522597.03,119157.92,641754.95,0.814324891456
-61,CSL Behring,Fee for service and consultancy,95.0,44172.66,11191.95,55364.61,0.797850106774
-95,Ipsen Developments Ltd,Fee for service and consultancy,81.0,112717.59,30242.33,142959.92,0.788455883299
-51,Bracco UK Ltd,Contribution to costs of Events,17.0,2145.95,602.03,2747.98,0.780919075102
-29,BGP Products Ltd,Fee for service and consultancy,45.0,40944.99,11926.5,52871.49,0.774424741955
-117,Napp Pharmaceuticals Ltd,Fee for service and consultancy,302.0,239476.07,71157.0,310633.07,0.770929090068
-37,Bayer Plc,Fee for service and consultancy,915.0,2048595.64,632585.58,2681181.22,0.764064593888
-15,Allergan Ltd,Fee for service and consultancy,437.0,697491.06,239055.71,936546.77,0.744747707581
-124,Novo Nordisk Limited,Fee for service and consultancy,728.0,1275003.88,441863.34,1716867.22,0.742633946963
-143,Rosemont Pharmaceuticals Ltd,Fee for service and consultancy,1.0,3581.0,1350.0,4931.0,0.726221861691
-169,Tillotts Pharma UK Ltd,Fee for service and consultancy,23.0,11499.43,4346.1,15845.53,0.725720755317
-58,Britannia Pharmaceuticals,Fee for service and consultancy,100.0,92791.44,35963.01,128754.45,0.720685304469
-105,Meda Pharma,Fee for service and consultancy,55.0,56307.6,22025.0,78332.6,0.718827154978
-8,Actavis,Fee for service and consultancy,18.0,13151.6,5734.32,18885.92,0.696370629548
-7,Actavis,Contribution to costs of Events,54.0,11480.11,5051.49,16531.6,0.694434295531
-93,Guerbet Laboratories Ltd,Fee for service and consultancy,14.0,15116.1,6844.82,21960.92,0.688318157891
-94,Ipsen Developments Ltd,Contribution to costs of Events,217.0,130740.94,62547.52,193288.46,0.676403236903
-91,Grunenthal Ltd,Fee for service and consultancy,113.0,395362.4,190487.6,585850.0,0.674852607323
-57,Britannia Pharmaceuticals,Donations and Grants to HCOs,4.0,61913.5,30078.57,91992.07,0.673030838419
-114,Mundipharma,Fee for service and consultancy,103.0,195159.0,96661.89,291820.89,0.668762952508
-122,Novex Pharma,Fee for service and consultancy,7.0,29000.0,15000.0,44000.0,0.659090909091
-150,Santen UK Limited,Fee for service and consultancy,31.0,48149.44,24970.77,73120.21,0.65849701471
-163,Takeda UK Ltd,Fee for service and consultancy,423.0,459142.4,252306.74,711449.14,0.64536222505
-148,Sanofi Aventis,Fee for service and consultancy,220.0,733729.46,438025.93,1171755.39,0.626179718277
-76,Eli Lilly & Company Ltd,Fee for service and consultancy,642.0,972404.0,580907.0,1553311.0,0.626020159517
-115,Napp Pharmaceuticals Ltd,Contribution to costs of Events,678.0,563485.84,361088.29,924574.13,0.609454473921
-55,Bristol-Myers Squibb Pharmaceuticals Ltd,Fee for service and consultancy,436.0,540208.0,355398.0,895606.0,0.603175950139
-20,Amdipharm Mercury Company Ltd,Fee for service and consultancy,13.0,11180.0,7465.1,18645.1,0.599621348236
-1,A. Menarini Farmaceutica Internazionale S.r.l.,Fee for service and consultancy,106.0,65611.33,48503.94,114115.27,0.574956620617
-65,Chiesi Ltd,Fee for service and consultancy,297.0,184251.8,136614.66,320866.46,0.574232034099
-152,Servier Laboratories Ltd,Fee for service and consultancy,159.0,411672.0,311689.0,723361.0,0.569110029432
-48,Boehringer Ingelheim Ltd,Contribution to costs of Events,356.0,302804.09,238186.7,540990.79,0.559721340173
-47,Biotest UK,Fee for service and consultancy,22.0,26168.2,20673.09,46841.29,0.558656689429
-107,Merck Serono Ltd,Fee for service and consultancy,146.0,321822.41,258844.67,580667.08,0.55422878459
-175,Vifor Pharma UK Ltd,Fee for service and consultancy,89.0,88170.84,72588.6,160759.44,0.548464463424
-40,Besins Healthcare (UK) Ltd,Fee for service and consultancy,12.0,11913.0,10411.4,22324.4,0.533631362993
-53,Bracco UK Ltd,Fee for service and consultancy,3.0,3000.0,2750.0,5750.0,0.521739130435
-36,Bayer Plc,Contribution to costs of Events,1165.0,1117354.27,1035340.58,2152694.85,0.519049074698
-125,Octapharma Ltd,Contribution to costs of Events,37.0,61648.26,58215.12,119863.38,0.514321054521
-108,Merck Sharp & Dohme Ltd,Contribution to costs of Events,782.0,678413.0,641967.02,1320380.02,0.513801322138
-137,Pharma Mar SA,Contribution to costs of Events,50.0,21745.0,21341.92,43086.92,0.504677521624
-19,Almirall Ltd,Fee for service and consultancy,82.0,49760.01,48933.57,98693.58,0.504186898479
-116,Napp Pharmaceuticals Ltd,Donations and Grants to HCOs,361.0,272025.55,271987.06,544012.61,0.500035376018
-126,Octapharma Ltd,Donations and Grants to HCOs,6.0,40639.2,40639.2,81278.4,0.5
-154,Shire Pharmaceuticals Ltd,Contribution to costs of Events,291.0,145359.5,146129.98,291489.48,0.498678374259
-168,Tillotts Pharma UK Ltd,Contribution to costs of Events,122.0,80048.72,80572.3,160621.02,0.498370138603
-134,PTC Therapeutics Limited,Fee for service and consultancy,17.0,10802.6,11164.9,21967.5,0.491753727097
-110,Merz Pharma UK Ltd,Contribution to costs of Events,241.0,74468.98,80777.76,155246.74,0.479681441298
-153,Shionogi Limited,Fee for service and consultancy,40.0,27957.71,30725.63,58683.34,0.476416475272
-151,Servier Laboratories Ltd,Contribution to costs of Events,414.0,157548.0,174056.0,331604.0,0.475108864791
-155,Shire Pharmaceuticals Ltd,Fee for service and consultancy,81.0,145540.81,166350.05,311890.86,0.466640189456
-13,Alimera Sciences Limited,Fee for service and consultancy,24.0,23609.9,27066.96,50676.86,0.46589113848
-85,Genzyme,Fee for service and consultancy,60.0,173107.46,209801.86,382909.32,0.452084739019
-121,Novartis Pharmaceuticals UK Ltd,Fee for service and consultancy,281.0,690922.74,869833.67,1560756.41,0.44268454422
-18,Almirall Ltd,Contribution to costs of Events,156.0,126788.95,171097.88,297886.83,0.425627913795
-25,Astellas Pharma Ltd,Fee for service and consultancy,581.0,489133.99,663341.03,1152475.02,0.424420470302
-14,Allergan Ltd,Contribution to costs of Events,834.0,342520.39,474144.49,816664.88,0.419413640023
-144,Sandoz Ltd,Contribution to costs of Events,91.0,84753.34,117469.08,202222.42,0.419109513179
-68,Consilient Health Ltd,Fee for service and consultancy,23.0,32306.0,46979.0,79285.0,0.407466733935
-5,AbbVie Limited,Fee for service and consultancy,214.0,449723.91,675431.97,1125155.88,0.399699204345
-112,Mitsubishi Tanabe Pharma Europe Ltd,Fee for service and consultancy,1.0,2000.0,3023.0,5023.0,0.398168425244
-0,A. Menarini Farmaceutica Internazionale S.r.l.,Contribution to costs of Events,52.0,77462.69,120732.15,198194.84,0.390841103633
-142,Roche Products Limited,Fee for service and consultancy,468.0,610078.95,954217.57,1564296.52,0.390002114177
-41,Bio Products Laboratory Ltd,Contribution to costs of Events,22.0,10003.58,16140.94,26144.52,0.382626263554
-38,Besins Healthcare (UK) Ltd,Contribution to costs of Events,52.0,22403.57,37470.23,59873.8,0.374179858302
-73,Eisai Ltd,Contribution to costs of Events,135.0,31858.37,54853.36,86711.73,0.367405540173
-9,Alcon UK Ltd,Contribution to costs of Events,26.0,21649.46,37353.4,59002.86,0.366922213601
-83,Gedeon Richter (UK) Ltd,Fee for service and consultancy,37.0,26090.0,45605.54,71695.54,0.363899902281
-97,Janssen-Cilag Ltd,Fee for service and consultancy,342.0,819791.39,1465862.0,2285653.39,0.358668288721
-24,Astellas Pharma Ltd,Contribution to costs of Events,719.0,320457.71,613291.62,933749.33,0.343194580927
-123,Novo Nordisk Limited,Contribution to costs of Events,650.0,333820.49,677819.56,1011640.05,0.329979511982
-12,Alimera Sciences Limited,Contribution to costs of Events,33.0,34231.09,69762.13,103993.22,0.329166555281
-82,Gedeon Richter (UK) Ltd,Contribution to costs of Events,57.0,29144.0,60652.79,89796.79,0.324555031422
-44,Biogen Idec Ltd,Contribution to costs of Events,168.0,142450.44,315896.03,458346.47,0.310792052135
-11,Alcon UK Ltd,Fee for service and consultancy,9.0,1523.5,3488.31,5011.81,0.303981994529
-133,Otsuka Pharmaceuticals UK Ltd,Fee for service and consultancy,107.0,130162.29,308487.47,438649.76,0.296733982027
-56,Britannia Pharmaceuticals,Contribution to costs of Events,293.0,144140.64,343276.63,487417.27,0.295723292693
-22,Amgen Ltd,Fee for service and consultancy,100.0,145679.75,353974.59,499654.34,0.291561061993
-136,Pfizer Ltd,Fee for service and consultancy,549.0,920286.88,2245509.04,3165795.92,0.29069684315
-166,Thea Pharmaceuticals Ltd,Contribution to costs of Events,14.0,6600.0,16116.17,22716.17,0.290541935546
-113,Mundipharma,Contribution to costs of Events,69.0,46895.0,117046.47,163941.47,0.28604720941
-99,Leo Pharma Laboratories Ltd,Fee for service and consultancy,64.0,67319.5,168103.36,235422.86,0.285951415253
-87,Gilead,Fee for service and consultancy,110.0,294516.62,772514.1,1067030.72,0.276015127287
-71,Dermal,Contribution to costs of Events,20.0,4090.0,12248.1,16338.1,0.250335106285
-90,Grunenthal Ltd,Contribution to costs of Events,63.0,27654.15,84247.01,111901.16,0.247130145925
-63,Celgene Ltd,Fee for service and consultancy,45.0,138065.05,428011.87,566076.92,0.243898037744
-16,Alliance Pharmaceuticals Ltd,Contribution to costs of Events,2.0,527.2,1639.8,2167.0,0.243285648362
-89,GlaxoSmithKline plc,Fee for service and consultancy,46.0,939725.35,2998707.38,3938432.73,0.238603884952
-106,Merck Serono Ltd,Contribution to costs of Events,256.0,135777.71,442351.5,578129.21,0.234857031355
-162,Takeda UK Ltd,Contribution to costs of Events,150.0,108512.0,359769.89,468281.89,0.231723673961
-35,Baxter Healthcare Ltd,Fee for service and consultancy,56.0,34367.14,119394.86,153762.0,0.223508669242
-54,Bristol-Myers Squibb Pharmaceuticals Ltd,Contribution to costs of Events,305.0,165376.0,576924.0,742300.0,0.222788629934
-27,AstraZeneca,Fee for service and consultancy,201.0,723086.0,2542336.32,3265422.32,0.221437207546
-101,Lundbeck Ltd,Fee for service and consultancy,81.0,178157.4,633921.06,812078.46,0.219384466865
-75,Eli Lilly & Company Ltd,Contribution to costs of Events,1003.0,186162.0,665325.0,851487.0,0.218631640882
-128,Orion Pharma (UK) Ltd,Contribution to costs of Events,101.0,13550.87,50395.74,63946.61,0.211909122313
-103,Martindale Pharma,Fee for service and consultancy,10.0,13707.5,51750.0,65457.5,0.209410686323
-4,AbbVie Limited,Contribution to costs of Events,318.0,177476.22,771648.24,949124.46,0.186989407058
-28,BGP Products Ltd,Contribution to costs of Events,28.0,6453.74,28811.84,35265.58,0.18300393755
-45,Biogen Idec Ltd,Fee for service and consultancy,135.0,215512.29,963397.76,1178910.05,0.182806389682
-158,Stirling Anglian Pharmaceuticals Ltd,Contribution to costs of Events,,2694.4,13154.9,15849.3,0.170001198791
-2,ALK-Abello Ltd,Contribution to costs of Events,8.0,6118.5,30423.04,36541.54,0.167439576986
-10,Alcon UK Ltd,Donations and Grants to HCOs,15.0,9601.71,48272.81,57874.52,0.165905652436
-26,AstraZeneca,Contribution to costs of Events,99.0,437951.42,2240105.57,2678056.99,0.163533271187
-66,Chugai Pharma UK,Contribution to costs of Events,84.0,50554.33,261679.79,312234.12,0.161911612991
-59,CEB Pharma Limited,Fee for service and consultancy,10.0,2488.17,12943.81,15431.98,0.161234656862
-132,Otsuka Pharmaceuticals UK Ltd,Contribution to costs of Events,60.0,21547.99,113389.02,134937.01,0.159689250562
-70,Daiichi Sankyo UK Ltd,Fee for service and consultancy,17.0,28995.0,153798.0,182793.0,0.15862204789
-119,Norgine,Fee for service and consultancy,11.0,12576.0,67281.0,79857.0,0.157481498178
-69,Daiichi Sankyo UK Ltd,Contribution to costs of Events,15.0,10485.0,56794.0,67279.0,0.155843576748
-17,Alliance Pharmaceuticals Ltd,Fee for service and consultancy,4.0,4000.0,22666.1,26666.1,0.150003187568
-39,Besins Healthcare (UK) Ltd,Donations and Grants to HCOs,1.0,500.0,2887.1,3387.1,0.14761890703
-165,Teva UK Limited,Fee for service and consultancy,50.0,76274.89,456820.33,533095.22,0.143079298291
-157,Sobi Ltd,Fee for service and consultancy,7.0,11971.49,77014.43,88985.92,0.134532406925
-139,Profile Pharma Ltd,Fee for service and consultancy,3.0,10349.25,71150.26,81499.51,0.126985426047
-33,Baxter Healthcare Ltd,Contribution to costs of Events,188.0,30874.32,216403.26,247277.58,0.124856932036
-86,Gilead,Contribution to costs of Events,98.0,49837.52,363154.86,412992.38,0.120674187742
-135,Pfizer Ltd,Contribution to costs of Events,666.0,290992.71,2164160.45,2455153.16,0.118523241133
-32,Baxalta UK Ltd,Fee for service and consultancy,10.0,9785.05,75233.54,85018.59,0.115093063764
-72,Dermal,Fee for service and consultancy,21.0,6581.0,52145.87,58726.87,0.112061139986
-111,Merz Pharma UK Ltd,Fee for service and consultancy,46.0,64206.27,536205.67,600411.94,0.106937030599
-30,Bausch & Lomb UK Ltd,Fee for service and consultancy,4.0,10364.8,88850.14,99214.94,0.104468137561
-92,Guerbet Laboratories Ltd,Contribution to costs of Events,21.0,6342.14,56606.85,62948.99,0.100750464781
-34,Baxter Healthcare Ltd,Donations and Grants to HCOs,1.0,15000.0,138000.07,153000.07,0.0980391708318
-172,UCB Pharma Ltd,Fee for service and consultancy,16.0,34976.71,344623.67,379600.38,0.0921408719348
-3,ALK-Abello Ltd,Fee for service and consultancy,7.0,4556.52,44994.01,49550.53,0.0919570386028
-64,Chiesi Ltd,Contribution to costs of Events,145.0,47720.62,485346.34,533066.96,0.0895208737004
-140,RB,Fee for service and consultancy,5.0,3160.0,33299.0,36459.0,0.086672700842
-131,Orphan Europe UK Ltd,Fee for service and consultancy,1.0,1000.0,11767.94,12767.94,0.0783211700556
-120,Novartis Pharmaceuticals UK Ltd,Contribution to costs of Events,103.0,122634.54,1446760.22,1569394.76,0.0781412956929
-141,Roche Products Limited,Contribution to costs of Events,231.0,31854.44,376013.27,407867.71,0.0780999309801
-149,Santen UK Limited,Contribution to costs of Events,6.0,3268.38,40820.17,44088.55,0.0741321726389
-147,Sanofi Aventis,Contribution to costs of Events,36.0,48100.61,715540.8,763641.41,0.0629884777988
-6,Accretio,Fee for service and consultancy,1.0,250.0,3727.0,3977.0,0.0628614533568
-118,Norgine,Contribution to costs of Events,35.0,11375.0,171399.0,182774.0,0.0622353288761
-78,Ferring Pharma,Fee for service and consultancy,8.0,7211.81,109922.82,117134.63,0.0615685557721
-81,Galen Ltd,Fee for service and consultancy,1.0,4050.0,62662.47,66712.47,0.0607082903691
-174,Vifor Pharma UK Ltd,Contribution to costs of Events,21.0,6313.42,102607.01,108920.43,0.0579635978301
-100,Lundbeck Ltd,Contribution to costs of Events,20.0,5134.15,93997.87,99132.02,0.0517910358328
-96,Janssen-Cilag Ltd,Contribution to costs of Events,163.0,90432.9,1682280.63,1772713.53,0.0510138262441
-156,Sobi Ltd,Contribution to costs of Events,14.0,6161.05,115138.66,121299.71,0.0507919598489
-43,BioMarin Europe Ltd,Fee for service and consultancy,2.0,14970.0,281558.0,296528.0,0.0504842712998
-130,Orphan Europe UK Ltd,Contribution to costs of Events,3.0,882.01,17084.09,17966.1,0.0490930140654
-84,Genzyme,Contribution to costs of Events,27.0,13752.54,313162.22,326914.76,0.0420676631425
-31,Baxalta UK Ltd,Contribution to costs of Events,2.0,10076.0,262178.75,272254.75,0.0370094552988
-52,Bracco UK Ltd,Donations and Grants to HCOs,,700.0,20000.0,20700.0,0.0338164251208
-98,Leo Pharma Laboratories Ltd,Contribution to costs of Events,17.0,15180.0,439475.7,454655.7,0.0333879020982
-79,Flynn Pharma,Contribution to costs of Events,2.0,1614.05,46827.68,48441.73,0.0333194128286
-62,Celgene Ltd,Contribution to costs of Events,7.0,6080.74,215233.24,221313.98,0.0274756253536
-42,BioMarin Europe Ltd,Contribution to costs of Events,2.0,788.0,31922.0,32710.0,0.0240904922042
-21,Amgen Ltd,Contribution to costs of Events,28.0,9592.22,411042.23,420634.45,0.0228041711752
-129,Orion Pharma (UK) Ltd,Fee for service and consultancy,3.0,818.6,41921.01,42739.61,0.0191531930216
-171,UCB Pharma Ltd,Donations and Grants to HCOs,1.0,45043.0,2524037.0,2569080.0,0.0175327354539
-80,Flynn Pharma,Fee for service and consultancy,8.0,1322.0,74820.84,76142.84,0.0173621052222
-88,GlaxoSmithKline plc,Donations and Grants to HCOs,2.0,23200.85,1757652.73,1780853.58,0.0130279379847
-138,Pierre Fabre Ltd,Contribution to costs of Events,2.0,690.46,62515.81,63206.27,0.0109239162507
-77,Ferring Pharma,Contribution to costs of Events,6.0,2018.56,189671.55,191690.11,0.0105303293947
-46,Biotest UK,Contribution to costs of Events,3.0,342.8,33698.45,34041.25,0.0100701354974
-170,UCB Pharma Ltd,Contribution to costs of Events,4.0,821.73,86326.86,87148.59,0.00942906821556
-164,Teva UK Limited,Contribution to costs of Events,5.0,1413.37,303888.56,305301.93,0.00462941718056
-49,Boehringer Ingelheim Ltd,Donations and Grants to HCOs,,1500.0,564446.62,565946.62,0.00265042664271
+,Company Name,Amount Aggregate,Amount Declared,Total Amount,Proportion Undeclared
+12,ApoPharma Inc,87730.81,5834.3,93565.11,0.937644491627
+85,Sunovion Pharmaceuticals Europe Ltd,177471.41,30307.42,207778.83,0.854136150444
+84,Stirling Anglian Pharmaceuticals Ltd,253867.99,55762.78,309630.77,0.81990556042
+88,Thea Pharmaceuticals Ltd,57837.2,16866.17,74703.37,0.774224777276
+37,Eisai Ltd,213758.78,64976.12,278734.9,0.766889183952
+56,Merck Sharp & Dohme Ltd,3041484.0,1353418.62,4394902.62,0.692048098212
+76,Rosemont Pharmaceuticals Ltd,3581.0,1654.17,5235.17,0.684027452786
+63,Novex Pharma,29000.0,15000.0,44000.0,0.659090909091
+60,Napp Pharmaceuticals Ltd,1074987.46,704232.35,1779219.81,0.604190361392
+49,Ipsen Developments Ltd,243458.53,162149.85,405608.38,0.600230522851
+65,Octapharma Ltd,129615.38,100073.42,229688.8,0.564308664593
+46,Grunenthal Ltd,423016.55,327284.61,750301.16,0.563795676392
+7,Allergan Ltd,1040011.45,883775.2,1923786.65,0.540606438869
+54,Meda Pharma,87959.14,75097.76,163056.9,0.539438318771
+15,BGP Products Ltd,47398.73,40738.34,88137.07,0.537784271703
+91,Vifor Fresenius Medical Care Renal Pharma,16460.33,14482.41,30942.74,0.531960970489
+77,Sandoz Ltd,375084.65,337930.16,713014.81,0.526054500888
+33,Chugai Pharma UK,461297.13,440574.57,901871.7,0.51148864079
+48,Hospira UK Limited,77501.37,75000.0,152501.37,0.508201139439
+59,Mundipharma,242054.0,240135.36,482189.36,0.501989508852
+25,Boehringer Ingelheim Ltd,826901.12,948732.57,1775633.69,0.46569352939
+0,A. Menarini Farmaceutica Internazionale S.r.l.,143074.02,169236.09,312310.11,0.458115236807
+38,Eli Lilly & Company Ltd,1158566.0,1410567.01,2569133.01,0.450956021152
+79,Santen UK Limited,51417.82,65790.94,117208.76,0.438685811538
+81,Shionogi Limited,27957.71,37725.63,65683.34,0.425643854286
+19,Bayer Plc,3165949.91,4309603.44,7475553.35,0.423507098642
+28,Britannia Pharmaceuticals,298845.58,409318.21,708163.79,0.422000650443
+64,Novo Nordisk Limited,1608824.37,2229700.56,3838524.93,0.419125679614
+80,Servier Laboratories Ltd,569220.0,790342.0,1359562.0,0.418678956899
+20,Besins Healthcare (UK) Ltd,34816.57,50768.73,85585.3,0.40680549113
+9,Almirall Ltd,176548.96,269409.45,445958.41,0.395886602968
+89,Tillotts Pharma UK Ltd,91548.15,145752.0,237300.15,0.385790527313
+30,CSL Behring,109566.73,207602.51,317169.24,0.345451942313
+13,Astellas Pharma Ltd,809591.7,1534556.98,2344148.68,0.345367043869
+42,Gedeon Richter (UK) Ltd,55234.0,106758.33,161992.33,0.340966760587
+4,Actavis,24631.71,48245.81,72877.52,0.337987763579
+86,Takeda UK Ltd,567654.4,1166643.88,1734298.28,0.327310709205
+6,Alimera Sciences Limited,57840.99,119754.09,177595.08,0.325690272501
+27,Bristol-Myers Squibb Pharmaceuticals Ltd,705584.0,1464924.0,2170508.0,0.325077815885
+82,Shire Pharmaceuticals Ltd,290900.31,685524.03,976424.34,0.297924066498
+21,Bio Products Laboratory Ltd,12003.58,28980.94,40984.52,0.292880824272
+71,Pharma Mar SA,21745.0,56185.52,77930.52,0.279030603158
+24,Biotest UK,26511.0,69211.54,95722.54,0.276956712599
+5,Alcon UK Ltd,32774.67,89114.52,121889.19,0.26888906227
+78,Sanofi Aventis,781830.07,2144857.2,2926687.27,0.267138234418
+68,Otsuka Pharmaceuticals UK Ltd,151710.28,421987.94,573698.22,0.264442654188
+55,Merck Serono Ltd,457600.12,1354371.14,1811971.26,0.252542703133
+2,AbbVie Limited,627200.13,1857481.9,2484682.03,0.252426717957
+47,Guerbet Laboratories Ltd,21458.24,66134.07,87592.31,0.244978583166
+92,Vifor Pharma UK Ltd,94484.26,314865.61,409349.87,0.230815414696
+53,Martindale Pharma,14581.65,51787.0,66368.65,0.219706894746
+32,Chiesi Ltd,231972.42,918531.93,1150504.35,0.201626721359
+26,Bracco UK Ltd,5845.95,23352.03,29197.98,0.200217617794
+44,Gilead,344354.14,1468482.14,1812836.28,0.189953248288
+75,Roche Products Limited,641933.39,2857887.54,3499820.93,0.183418924236
+52,Lundbeck Ltd,183291.55,823455.56,1006747.11,0.182063149901
+3,Accretio,810.0,3727.0,4537.0,0.17853206965
+14,AstraZeneca,1161037.42,5505380.24,6666417.66,0.174162118129
+11,Amgen Ltd,155271.97,778755.56,934027.53,0.166239179267
+29,CEB Pharma Limited,2488.17,12943.81,15431.98,0.161234656862
+50,Janssen-Cilag Ltd,910224.29,4847919.43,5758143.72,0.158075993629
+8,Alliance Pharmaceuticals Ltd,4527.2,24805.9,29333.1,0.154337591322
+70,Pfizer Ltd,1211279.59,6905728.17,8117007.76,0.149227353948
+18,Baxter Healthcare Ltd,80241.46,473798.19,554039.65,0.144829814978
+45,GlaxoSmithKline plc,962926.2,5704678.15,6667604.35,0.14441861716
+36,Dermal,10671.0,64643.97,75314.97,0.141684979759
+57,Merz Pharma UK Ltd,138675.25,842763.03,981438.28,0.141297983608
+34,Consilient Health Ltd,32306.0,198576.0,230882.0,0.13992429033
+62,Novartis Pharmaceuticals UK Ltd,813557.28,5015272.58,5828829.86,0.139574717317
+31,Celgene Ltd,144145.79,1015286.79,1159432.58,0.124324426005
+35,Daiichi Sankyo UK Ltd,39480.0,294027.0,333507.0,0.118378324893
+66,Orion Pharma (UK) Ltd,14369.47,110716.75,125086.22,0.11487652277
+43,Genzyme,186860.0,1669806.35,1856666.35,0.10064274607
+51,Leo Pharma Laboratories Ltd,82499.5,770642.96,853142.46,0.0967007315519
+16,Bausch & Lomb UK Ltd,10364.8,100226.81,110591.61,0.093721395321
+23,Biogen Idec Ltd,357962.73,3465163.04,3823125.77,0.0936309061054
+1,ALK-Abello Ltd,10675.02,106427.05,117102.07,0.0911599598538
+87,Teva UK Limited,77688.26,870428.89,948117.15,0.0819395155968
+61,Norgine,23951.0,294212.0,318163.0,0.0752790236451
+83,Sobi Ltd,18132.54,225173.11,243305.65,0.0745257662533
+10,Amdipharm Mercury Company Ltd,11180.0,168014.93,179194.93,0.0623901580251
+67,Orphan Europe UK Ltd,1882.01,28852.03,30734.04,0.0612353598811
+58,Mitsubishi Tanabe Pharma Europe Ltd,2000.0,41576.33,43576.33,0.0458964763669
+41,Galen Ltd,4050.0,84302.05,88352.05,0.0458393438522
+69,PTC Therapeutics Limited,10802.6,251060.9,261863.5,0.0412527900987
+22,BioMarin Europe Ltd,15758.0,378904.0,394662.0,0.0399278369846
+73,Profile Pharma Ltd,10349.25,306608.26,316957.51,0.032651852925
+17,Baxalta UK Ltd,19861.05,699412.29,719273.34,0.0276126597435
+90,UCB Pharma Ltd,80841.44,2954987.53,3035828.97,0.0266291154076
+39,Ferring Pharma,9230.37,387928.03,397158.4,0.0232410292719
+74,RB,3160.0,160799.0,163959.0,0.0192731109607
+40,Flynn Pharma,2936.05,158640.52,161576.57,0.0181712608456
+72,Pierre Fabre Ltd,690.46,180692.81,181383.27,0.00380663552929
